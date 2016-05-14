@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Foundations}{4}{0}{2}
+\beamer@sectionintoc {3}{Benefits and Challenges}{5}{0}{3}
+\beamer@sectionintoc {4}{Global Software Development}{6}{0}{4}
+\beamer@sectionintoc {5}{Work Organization}{7}{0}{5}
+\beamer@sectionintoc {6}{Risk Management}{8}{0}{6}
+\beamer@sectionintoc {7}{Feedback}{9}{0}{7}
+\beamer@subsectionintoc {7}{1}{Questions, Comments and Suggestions}{9}{0}{7}
+\beamer@subsectionintoc {7}{2}{Contact Information}{10}{0}{7}
+\beamer@sectionintoc {8}{Bibliography}{11}{0}{8}
